@@ -19253,7 +19253,7 @@
     "id": "memory-bridge",
     "name": "Memory Bridge",
     "author": "Tamanna Shah",
-    "description": "Provider-agnostic memory system and MCP server for AI-assisted coding and research workflows.",
+    "description": "Provider-agnostic automapping memory system and MCP server for AI-assisted coding and research workflows.",
     "repo": "tamannashah18/obsidian-memory-bridge"
     }
 ]
